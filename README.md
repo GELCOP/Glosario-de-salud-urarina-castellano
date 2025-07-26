@@ -10,7 +10,7 @@ Este aplicativo contiene un glosario bilingüe urarina-castellano y castellano-u
 
 Diseñado y elaborado por miembros del Grupo para el Estudio de Lenguas y Culturas Originarias Peruanas de la Pontificia Universidad Católica del Perú, con el apoyo del Vicerrectorado de Investigación a través del proyecto PI0734, y de la Facultad de Letras y Ciencias Humanas.
 
-**Asesoría en wampis y grabaciones:** Demetrio Macusi Vela
+**Asesoría en wampis y [grabaciones](https://drive.google.com/drive/folders/1D_z2nWsKxMgoUYQis80zKpRIZMB7koP2?usp=sharing):** Demetrio Macusi Vela
 
 **Diseño, análisis e implementación:** Josué Nuñez Guerrero, Rosa Luisa Gonzales Mendoza  
 
