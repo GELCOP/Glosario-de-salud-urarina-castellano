@@ -1,7 +1,7 @@
 # Glosario de salud urarina castellano
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/59c47929-f552-497a-b7f7-b040dcc341d4" controls width="400">
+  <video src="" controls width="400">
     Tu navegador no admite el elemento <code>video</code>.
   </video>
 </div>
